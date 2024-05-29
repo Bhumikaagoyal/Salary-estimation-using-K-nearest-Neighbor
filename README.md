@@ -1,5 +1,4 @@
 # Salary-estimation-using-K-nearest-Neighbor
-Certainly! Below is a comprehensive description for a GitHub repository dedicated to salary estimation using the K-Nearest Neighbors (KNN) algorithm:
 
 ---
 
